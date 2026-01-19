@@ -11,7 +11,9 @@ body{
 
 *{
     margin:0;
-  font-family: "Cormorant Garamond", serif;}
+  font-family: "Cormorant Garamond", serif;
+touch-action: manipulation;
+}
 
 #calculator{
     width:60vh;
