@@ -42,9 +42,10 @@ div button{
     font-size: 2rem;
     font-weight: bold;
     cursor: pointer;
-    transition: background-color 0.5s;
+    transition: background-color 0.3s;
     user-select: none;  /*Fixed the blue select*/
     -webkit-user-select:none;
+   /* touch-action: manipulation; */
 }
 
 div button:hover
