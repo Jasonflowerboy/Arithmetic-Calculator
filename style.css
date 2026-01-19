@@ -12,7 +12,7 @@ body{
 *{
     margin:0;
   font-family: "Cormorant Garamond", serif;
-touch-action: manipulation;
+/*touch-action: manipulation; */
 }
 
 #calculator{
