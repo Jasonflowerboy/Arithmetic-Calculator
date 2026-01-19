@@ -43,6 +43,8 @@ div button{
     font-weight: bold;
     cursor: pointer;
     transition: background-color 0.5s;
+    user-select: none;  /*Fixed the blue select*/
+    -webkit-user-select:none;
 }
 
 div button:hover
